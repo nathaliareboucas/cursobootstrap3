@@ -1,0 +1,11 @@
+/* css personalizado */
+
+.coluna-cinza {
+  background: gray;
+}
+.coluna-vermelha {
+  background-color: red;
+}
+.coluna-amarela {
+  background: yellow;
+}
